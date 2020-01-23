@@ -1,0 +1,11 @@
+{
+	"config":		
+		{
+			"broker": "test.mosquitto.org",
+			"tpc_base": "catracas_portas",
+			"local1": "UFG",
+			"local2": "CA-A",
+			"local3": "1",
+			"hard_name": "Catraca02"
+		}
+}

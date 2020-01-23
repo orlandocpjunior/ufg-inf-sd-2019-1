@@ -1,0 +1,11 @@
+{
+	"config":		
+		{
+			"broker": "test.mosquitto.org",
+			"topic1": "catracas_portas",
+			"topic2": "",
+			"topic3": "",
+			"topic4": "",
+			"hard_name": ""
+		}
+}
